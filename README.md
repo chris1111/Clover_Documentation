@@ -36,14 +36,14 @@ make
 ### TABLE OF CONTENTS
 *   [CloverBootloader.md](#CloverBootloader)
 *   [Building.md](https://github.com/chris1111/Clover_Documentation/tree/main/Building.md)
-*   [Configuration.md](#Configuration)
-*   [Design.md](#Design)
-*   [Fixing-DSDT.md](#Fixing-DSDT)
-*   [Installing.md](#Installing)
+*   [Configuration.md](https://github.com/chris1111/Clover_Documentation/tree/main/Configuration.md)
+*   [Design.md](https://github.com/chris1111/Clover_Documentation/tree/main/Design.md)
+*   [Fixing-DSDT.md](https://github.com/chris1111/Clover_Documentation/tree/main/Fixing-DSDT.md)
+*   [Installing.md](https://github.com/chris1111/Clover_Documentation/tree/main/Installing.md)
 *   [Native-speedstep.md](#Native-speedstep)
-*   [OC-integration.md](#OC-integration)
-*   [Technical-Background.md](#Technical-Background)
-
+*   [Native-speedstep.md](https://github.com/chris1111/Clover_Documentation/tree/main/Native-speedstep.md)
+*   [OC-integration.md](https://github.com/chris1111/Clover_Documentation/tree/main/OC-integration.md)
+*   [Technical-Background.md](https://github.com/chris1111/Clover_Documentation/tree/main/Technical-Background.md)
 -----------------------------------------------------
 
 ### Developers:
